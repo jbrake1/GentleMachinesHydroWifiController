@@ -3,19 +3,19 @@ This repository hosts the code for the Gentle Machines Hydro Controller, enginee
 
 **Pinout**
 
-const int led = 19;
-const int pump1 = 26;
-const int pump2 = 27;
-const int pump3 = 14;
-const int pump4 = 12;
-const int pump5 = 13;
-const int sensor1 = 25;
-const int button = 18;
-const int camera = 4;
-const int usbtx2 = 17;
-const int usbrx2 = 16;
-const int readV = 35;  // voltage sensor pin
-const int readI = 32;  // amp sensor pin
+led = 19
+pump1 = 26
+pump2 = 27
+pump3 = 14
+pump4 = 12
+pump5 = 13
+sensor1 = 25
+button = 18
+camera = 4
+usbtx2 = 17
+usbrx2 = 16
+readV = 35 
+readI = 32 
 
 Pumps are left to right.
 
