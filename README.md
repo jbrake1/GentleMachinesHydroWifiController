@@ -11,9 +11,6 @@ pump4 = 12
 pump5 = 13
 sensor1 = 25
 button = 18
-camera = 4
-usbtx2 = 17
-usbrx2 = 16
 readV = 35 
 readI = 32 
 
